@@ -121,14 +121,14 @@ Me chamo Pedro de Araújo Guedes, tenho 21 anos e sou natural do Rio Grande do N
   alt="GitHub Stats" 
   width="400" 
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=guedesp16&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api?username=pedrodag16&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 <img 
   align="left" 
   alt="Top Langs" 
   width="300" 
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesp16&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodag16&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
 />
 
 <br clear="both"/>
